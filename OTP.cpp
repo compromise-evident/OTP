@@ -46,11 +46,11 @@ using namespace std;
 int main()
 {	cout << "\n(One-time pad)\n\n"
 		 
-		 << "(1) Encrypt\n"
-		 << "(2) Decrypt\n"
-		 << "(3) Get keys\n\n"
+	     << "(1) Encrypt\n"
+	     << "(2) Decrypt\n"
+	     << "(3) Get keys\n\n"
 		 
-		 << "Enter option: ";
+	     << "Enter option: ";
 		 
 	int user_option;
 	cin >> user_option;
