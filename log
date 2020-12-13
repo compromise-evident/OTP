@@ -1,6 +1,9 @@
 /* One-time pad log
 
 
+Version 2.1.1   Added permission requirement if generating keys while keys already exist.
+                Added quick-testing ability (users modify code) for those who need faster key gen.
+                Sunday, December 13 2020
 
 Version 2.1     Replaced certain tabs with spaces to align code where formatting is problematic
                 (github and pastebin have problems with this while Coliru shines bright! Why?)
