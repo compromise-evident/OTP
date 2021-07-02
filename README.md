@@ -5,7 +5,7 @@ Fast & plentiful One-time pad.
 
 
 
-[Auditing in the browser?](https://coliru.stacked-crooked.com/a/77b3355e052e70cc)
+[Auditing in the browser?](https://coliru.stacked-crooked.com/a/a4f6cff4abe16dbe)
 
 <p align="center">
   <img src="https://github.com/compromise-evident/OTP/blob/main/Other/Terminal.png">
